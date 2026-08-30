@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-namespace Bai1
+namespace Bai9
 {
     class Program
     {
