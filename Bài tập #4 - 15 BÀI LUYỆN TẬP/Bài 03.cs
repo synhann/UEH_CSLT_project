@@ -9,7 +9,7 @@ namespace Bai3
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-           
+           cw
 
             Console.ReadKey();
 
